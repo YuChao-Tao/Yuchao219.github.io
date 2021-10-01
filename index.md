@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>YUCHAO TAO, </title>
+		<title>YUCHAO TAO</title>
 	</head>
 	<body>
 		<nav>
