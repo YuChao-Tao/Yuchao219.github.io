@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 	<head>
-		<title>YUCHAO TAO, Try to be a data scientist</title>
+		<title>YUCHAO TAO, </title>
 	</head>
 	<body>
 		<nav>
@@ -15,7 +14,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm YUCHAO TAO. Welcome to my website!</h1>
-				<p>I'm a MSc in Health Data Science at <em>LSE</em>, who contempting to apply for a PHD now. <a href="/about">Read more about my life...</a></p>
+				<p>I'm a MSc in Health Data Science student at <em>LSE</em>, who try to apply for a PHD now. <a href="/about">Read more about my research please click it ^_^</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
